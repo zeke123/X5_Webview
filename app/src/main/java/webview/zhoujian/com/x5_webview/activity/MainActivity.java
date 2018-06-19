@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_ADJUST_RESIZE | WindowManager.LayoutParams.SOFT_INPUT_STATE_HIDDEN);
         initView();
         setWebview();
+        Toast.makeText(this, "hah", Toast.LENGTH_SHORT).show();
     }
 
     private void initView() {
