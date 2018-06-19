@@ -6,6 +6,11 @@ import com.tencent.smtt.sdk.TbsListener;
 import webview.zhoujian.com.x5_webview.utils.LogUtil;
 
 
+
+
+
+
+
 public class BaseApplication extends Application {
 
     private static BaseApplication instance;
