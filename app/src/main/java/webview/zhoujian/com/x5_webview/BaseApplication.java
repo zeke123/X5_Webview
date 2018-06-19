@@ -3,8 +3,8 @@ package webview.zhoujian.com.x5_webview;
 import android.app.Application;
 import com.tencent.smtt.sdk.QbSdk;
 import com.tencent.smtt.sdk.TbsListener;
-
 import webview.zhoujian.com.x5_webview.utils.LogUtil;
+
 
 public class BaseApplication extends Application {
 
